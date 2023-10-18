@@ -4,5 +4,5 @@
 
 ## Dependencies
 ```
-pip install cassio datasets langchain openai tiktoken astrapy
+pip install cassio datasets langchain openai tiktoken astrapy ipywidgets
 ```
